@@ -1,8 +1,4 @@
-# Nomad_Trakker 🌍✈️
 
-### About the Application
-
-Nomad Trakker is a responsive Travel Advisor web application that helps you plan your trips and explore destinations with ease. It offers a range of features to enhance your travel experience. Below is a summary of the application and the technologies used.
 
 
 ### Features 🏞️🏨🍽️
